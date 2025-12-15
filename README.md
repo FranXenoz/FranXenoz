@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranXenoz
-- 👀 I’m interested in AI/ML, algorithms, finance, physics and learning
-- 🌱 I’m currently learning computational engineering, currently involves basic programming in C and Python
+- 👀 I’m interested in algorithms, finance, and differential equations.
+- 🌱 I’m currently learning computational engineering, currently programming in C, C++ and Python
 - 💞️ I’m looking to collaborate on something in the future
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
