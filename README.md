@@ -8,13 +8,13 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- ⚙️ Building **discrete event simulators** for quantitative finance using C++
-- 🍎 Passionate about **macOS internals** and system optimization
-- 🌐 Crafting my own **portfolio website** from scratch
-- 🎓 Always exploring low-level systems, algorithms, and tooling
-- 🚀 Learning git, GitHub workflows, and collaborative development
+- Building **discrete event simulators** for quantitative finance using C++
+- Passionate about **macOS internals** and system optimization
+- Crafting my own **portfolio website** from scratch
+- Always exploring low-level systems, algorithms, and tooling
+- Learning git, GitHub workflows, and collaborative development
 
 ---
 
@@ -38,13 +38,6 @@
 > My personal portfolio website showcasing projects and skills.
 
 `Web` `Portfolio` `Frontend`
-
----
-
-### 🧪 [Lambda Session](https://github.com/FranXenoz/lambdasess)
-> Hands-on repo from a git & GitHub learning session — where it all started.
-
-`Git` `GitHub` `Learning`
 
 ---
 
